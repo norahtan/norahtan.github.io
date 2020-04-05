@@ -5,5 +5,6 @@ tags:
 - testing
 categories:
 - Initial
+layout: index
 ---
 This article/page is for test only.
