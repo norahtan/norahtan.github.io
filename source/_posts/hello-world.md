@@ -5,5 +5,9 @@ category:
     - test
 tags: 
     - first post
+    - mathjax
+mathjax: true
 ---
 Hello World!
+
+$$a = b$$
