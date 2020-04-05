@@ -5,6 +5,7 @@ tags:
 - testing
 categories:
 - Initial
-layout: index
+date: 2019-06-09 09:56:49
+layout: post
 ---
 This article/page is for test only.
