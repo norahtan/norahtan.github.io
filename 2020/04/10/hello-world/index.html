@@ -12,7 +12,7 @@
 
 
 
-<title>Sequences (TBD) | Plural</title>
+<title>Sequences, Metric Spaces, and Continuity | Plural</title>
 
 
 
@@ -212,7 +212,7 @@
     
     <article class="post-wrap">
         <header class="post-header">
-            <h1 class="post-title">Sequences (TBD)</h1>
+            <h1 class="post-title">Sequences, Metric Spaces, and Continuity</h1>
             
                 <div class="post-meta">
                     
@@ -240,7 +240,9 @@
             <blockquote>
 <p>“The events in our lives happen in a sequence in time, but in their significance to ourselves they find their own order, a timetable not necessarily - perhaps not possibly - chronological. The time as we know it subjectively is often the chronology that stories and novels follow: it is the continuous thread of revelation.” –– Eudora Welty, <em>On Writing</em></p>
 </blockquote>
-<p>The concept of sequences is helpful or even essential in understanding the metric topology, continuity, and later on the function space. </p>
+<p>Before I officially learned the definition to continuous functions in my first college real analysis class, I thought I would comprehend it easily since I had got some experience with the $\delta, \epsilon$ style of definitions in high school. So, I skimmed through the sequential definitions to both continuous functions and limit points, but, apparently, only to find my mind completely blank when reading the homework questions. </p>
+<p>It was not until then when I realized that I have been overestimating myself. So I went back to the famous textbook written by Rudin and all of accessible class materials. This article summarizes what I found the most critical and interesting in understanding sequences, metric spaces, and continuous functions and their relations. </p>
+<p>The concept of sequences is helpful or even essential in understanding the metric topology, continuity, and later on the function space. So, we will start from here. </p>
 <h2 id="Perceive-metric-spaces-through-sequences"><a href="#Perceive-metric-spaces-through-sequences" class="headerlink" title="Perceive metric spaces through sequences"></a>Perceive metric spaces through sequences</h2><h3 id="On-sequences-themselves"><a href="#On-sequences-themselves" class="headerlink" title="On sequences themselves"></a>On sequences themselves</h3><center>Convergence &#8594 Cauchyness &#8594 Completeness </center>
 
 <ul>
@@ -248,7 +250,7 @@
 <li>Cauchyness: an <em>intrinsic</em> understanding of convergence of the sequence.</li>
 <li>Completeness: a property ascribed to the space when <em>all Cauchy sequences converge</em>. </li>
 </ul>
-<p>The definition to a sequence ${x_n}_n$ in a metric space $(X, d)$ is simple, as every member in the sequence can be listed out in order. One vivid observation is to see sequences as a depiction of <strong>&lt;distance&gt;</strong>. For example, if we see that “elements in the sequence are getting closer and closer to a point in $X$”, it means that the sequence converges that element (point). Or, a “diminishing fluctuation among elements” implies an intrinsic convergence possessed by Cauchy sequences. </p>
+<p>The definition to a sequence {$x_n$}$_n$ in a metric space $(X, d)$ is simple, as every member in the sequence can be listed out in order. One vivid observation is to see sequences as a depiction of <strong>&lt;distance&gt;</strong>. For example, if we see that “elements in the sequence are getting closer and closer to a point in $X$”, it means that the sequence converges that element (point). Or, a “diminishing fluctuation among elements” implies an intrinsic convergence possessed by Cauchy sequences. </p>
 <h3 id="Sequential-definitions"><a href="#Sequential-definitions" class="headerlink" title="Sequential definitions"></a>Sequential definitions</h3><p>If every sequence in a metric space admits some properties, then it is natural to postulate that the space itself must adopt some <em>structural</em> features such that this is possible. Therefore, we have sequential definitions to many topology concepts, as &lt;metric&gt; enables a sense of “closeness” that is equivalent to the idea of neighborhood in the general topology. </p>
 <p>For example,</p>
 <ul>
@@ -256,8 +258,17 @@
 <li>If every Cauchy sequence converges, then the space is <strong>complete</strong>.</li>
 <li>If every convergent sequence converges to an element in the space, then the space is <strong>closed</strong>.</li>
 </ul>
-<p>There are some other important concepts and theorems in metric spaces that are closely related to or can be understood from this sequential point view. For instance, total boundedness, the Bolzano-Weierstrass theorem, the Heine-Borel theorem, and the Characterization of compactness. One of my favorite proofs just comes from one of statements in the Characterization of compactness. It claims that if a metric space $X$ is complete and totally bounded, then $X$ is sequentially compact. I have included this proof at the end of this article, in case there are any interested readers. </p>
-<h2 id="Perceive-functions-through-sequences"><a href="#Perceive-functions-through-sequences" class="headerlink" title="Perceive functions through sequences"></a>Perceive functions through sequences</h2><h2 id="A-proof-for-one-statement-in-the-Characterization-compactness"><a href="#A-proof-for-one-statement-in-the-Characterization-compactness" class="headerlink" title="A proof for one statement in the Characterization compactness"></a>A proof for one statement in the Characterization compactness</h2>
+<p>There are some other important concepts and theorems in metric spaces that are closely related to or can be understood from this sequential point view. For instance, total boundedness, the Bolzano-Weierstrass theorem, the Heine-Borel theorem, and the Characterization of compactness. One of my favorite proofs just comes from a statement in the Characterization of compactness. It claims that if a metric space $X$ is complete and totally bounded, then $X$ is sequentially compact. I have included this proof at the end of this article, in case there are any interested readers. </p>
+<h2 id="Perceive-continuous-functions-through-sequences"><a href="#Perceive-continuous-functions-through-sequences" class="headerlink" title="Perceive continuous functions through sequences"></a>Perceive continuous functions through sequences</h2><blockquote>
+<p><strong>Theorem (Characterization of continuity)</strong>: Let $(X, d_X)$ and $(Y, d_Y)$ be two metric spaces. Then the following are equivalent:</p>
+<ol>
+<li>$f$ is continuous at with respect to the metric topology;</li>
+<li>$f$ is continuous at every $p\in X$: i.e., for every $p\in X$, every $\epsilon &gt; 0$, there exists $\delta &gt; 0$ such that $d_Y(f(x), f(p))&lt;\epsilon$ whenever $d_X(x, p) &lt; \delta$.</li>
+<li>For every $p\in X$ and a sequence {$x_n$} with $x_n\to p$, we have $\lim_{n\to\infty} f(x_n) = f(p)$, i.e., $f(x_n)\to f(p)$.</li>
+</ol>
+</blockquote>
+<p>This sequential definition to continuous functions is not hard to comprehend now after we have gone through the basics of sequences and metric spaces. It is just a process of unfolding $x\to p$ as into $x_n\to p$. </p>
+<h2 id="How-continuity-preserves-the-structure-of-spaces"><a href="#How-continuity-preserves-the-structure-of-spaces" class="headerlink" title="How continuity preserves the structure of spaces"></a>How continuity preserves the structure of spaces</h2><h2 id="A-proof-for-one-statement-in-the-Characterization-compactness"><a href="#A-proof-for-one-statement-in-the-Characterization-compactness" class="headerlink" title="A proof for one statement in the Characterization compactness"></a>A proof for one statement in the Characterization compactness</h2>
         </div>
 
         
