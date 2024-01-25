@@ -21,7 +21,7 @@ Related Experiences
 - I was a Graduate Teaching Assistant for [Nicolas Delfosse's Quantum LDPC codes minicourse](https://www.nicolas-delfosse.com/pcmi2023) at [IAS PCMI summer school 2023](https://www.ias.edu/pcmi).
 - In Summer 2022, I was a research intern at Alibaba Quantum Group in Seattle, WA. 
 - I am a proud co-founder of Duke Undergraduate Quantum Information Society (DuQIS) together with [Catherine Liang](https://www.catherine-liang.com/duqis). 
-- Some wise person once said: "Love quantum mechanics, love the cats." Click [here](https://photos.app.goo.gl/HK3oJNRbdTSeYy2E8) for some featured photos of my cat Coco. 
+- Some wise person once said: "Love quantum mechanics, love the cats." Click <a href="https://photos.app.goo.gl/HK3oJNRbdTSeYy2E8" target="_blank">here</a> for some featured photos of my cat Coco. 
 
 
 Publications
