@@ -26,6 +26,10 @@ Related Experiences
 
 Publications
 ------
+- **Efficient approximate unitary designs from random Pauli rotations**<br>
+Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
+[[arXiv](https://arxiv.org/abs/2402.05239)]
+
 - **Scalable Surface-Code Decoders with Parallelization in Time**<br>
 Xinyu Tan, Fang Zhang, Rui Chao, Yaoyun Shi, Jianxin Chen<br>
 *PRX Quantum (2023)*<br>
