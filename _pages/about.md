@@ -34,9 +34,11 @@ Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
 Xinyu Tan, Fang Zhang, Rui Chao, Yaoyun Shi, Jianxin Chen<br>
 *PRX Quantum (2023)*<br>
 *6th International Conference on Quantum Error Correction (QEC 2023)* **invited talk**<br>
+*Simons Institute Workshop, Advances in Quantum Coding Theory (2024)*<br>
 [[arXiv](https://arxiv.org/abs/2209.09219)]
 [[PRX Quantum](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040344)]
 [[talk at QEC](https://www.youtube.com/watch?v=10PTOhk4XWI)]
+[[talk at Simons](https://www.youtube.com/watch?v=qOTPJ90Y4JA)]
 
 - **Approximate unitary 3-designs from transvection Markov chains**<br>
 Xinyu Tan, Narayanan Rengaswamy, Robert Calderbank<br>
