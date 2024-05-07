@@ -29,6 +29,7 @@ Publications
 - **Efficient approximate unitary designs from random Pauli rotations**<br>
 Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2402.05239)]
+[[MIT QI Seminar](/files/20240503%20MIT%20QI%20seminar.pdf)]
 
 - **Scalable Surface-Code Decoders with Parallelization in Time**<br>
 Xinyu Tan, Fang Zhang, Rui Chao, Yaoyun Shi, Jianxin Chen<br>
