@@ -17,7 +17,7 @@ Email: norahtan (at) mit (dot) edu
 
 Related Experiences
 ------
-- I will be visiting [the Simons Institute](https://simons.berkeley.edu/people/xinyu-tan) at UC Berkeley in Spring 2024.
+- I was a visiting graduate student for the [Quantum Algorithms, Complexity, and Fault-Tolerance Program](https://simons.berkeley.edu/people/xinyu-tan) at the Simons Institute at UC Berkeley in Spring 2024.
 - I was a Graduate Teaching Assistant for [Nicolas Delfosse's Quantum LDPC codes minicourse](https://www.nicolas-delfosse.com/pcmi2023) at [IAS PCMI summer school 2023](https://www.ias.edu/pcmi).
 - In Summer 2022, I was a research intern at Alibaba Quantum Group in Seattle, WA. 
 - I am a proud co-founder of Duke Undergraduate Quantum Information Society (DuQIS) together with [Catherine Liang](https://www.catherine-liang.com/duqis). 
