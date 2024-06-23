@@ -26,7 +26,7 @@ Related Experiences
 
 Publications
 ------
-\*: authors in alphabetical order
+\*: authors are in alphabetical order
 
 - **Incompressibility and spectral gaps of random circuits**<br>
 \*Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan<br>
