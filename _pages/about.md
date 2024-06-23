@@ -26,14 +26,15 @@ Related Experiences
 
 Publications
 ------
-*: author list is alphabetically ordered
+\*: authors in alphabetical order
 
 - **Incompressibility and spectral gaps of random circuits**<br>
-*Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan<br>
+\*Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2406.07478)]
 
 - **Efficient approximate unitary designs from random Pauli rotations**<br>
-*Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
+\*Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
+*65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024*<br>
 [[arXiv](https://arxiv.org/abs/2402.05239)]
 [[MIT QI Seminar](/files/20240503%20MIT%20QI%20seminar.pdf)]
 
