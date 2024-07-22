@@ -31,6 +31,7 @@ Publications
 - **Incompressibility and spectral gaps of random circuits**<br>
 \*Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2406.07478)]
+[[Yunchao's 𝕏 post](https://x.com/lyc1178/status/1800956054718861486)]
 
 - **Efficient approximate unitary designs from random Pauli rotations**<br>
 \*Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
@@ -45,7 +46,7 @@ Xinyu Tan, Fang Zhang, Rui Chao, Yaoyun Shi, Jianxin Chen<br>
 *Simons Institute Workshop, Advances in Quantum Coding Theory (2024)*<br>
 [[arXiv](https://arxiv.org/abs/2209.09219)]
 [[PRX Quantum](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.040344)]
-[[talk at QEC](https://www.youtube.com/watch?v=10PTOhk4XWI)]
+[[Rui's talk at QEC](https://www.youtube.com/watch?v=10PTOhk4XWI)]
 [[talk at Simons](https://www.youtube.com/watch?v=qOTPJ90Y4JA)]
 
 - **Approximate unitary 3-designs from transvection Markov chains**<br>
