@@ -32,6 +32,7 @@ Publications
 \*Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2406.07478)]
 [[Yunchao's 𝕏 post](https://x.com/lyc1178/status/1800956054718861486)]
+[[slides](/files/20240920%20Incompressibility%20slides.pdf)]
 
 - **Efficient approximate unitary designs from random Pauli rotations**<br>
 \*Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
