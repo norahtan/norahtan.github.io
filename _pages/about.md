@@ -28,6 +28,10 @@ Publications
 ------
 \*: authors are in alphabetical order
 
+- **Permutation gates in the third level of the Clifford hierarchy**<br>
+\*Zhiyang He, Luke Robitaille, Xinyu Tan<br>
+[[arXiv](https://arxiv.org/abs/2410.11818)]
+
 - **Incompressibility and spectral gaps of random circuits**<br>
 \*Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2406.07478)]
