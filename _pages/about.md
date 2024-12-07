@@ -34,13 +34,15 @@ Publications
 
 - **Incompressibility and spectral gaps of random circuits**<br>
 \*Chi-Fang Chen, Jeongwan Haah, Jonas Haferkamp, Yunchao Liu, Tony Metger, Xinyu Tan<br>
+*28th Annaul Conference on Quantum Information Processing (QIP 2025)* **short plenary talk**<br>
 [[arXiv](https://arxiv.org/abs/2406.07478)]
 [[Yunchao's 𝕏 post](https://x.com/lyc1178/status/1800956054718861486)]
 [[slides](/files/20240920%20Incompressibility%20slides.pdf)]
 
 - **Efficient approximate unitary designs from random Pauli rotations**<br>
 \*Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
-*65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024*<br>
+*65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)*<br>
+*28th Annaul Conference on Quantum Information Processing (QIP 2025)* regular talk<br>
 [[arXiv](https://arxiv.org/abs/2402.05239)]
 [[FOCS](https://www.computer.org/csdl/proceedings-article/focs/2024/167400a463/22gEZkucomc)]
 [[MIT QI Seminar](/files/20240503%20MIT%20QI%20seminar.pdf)]
