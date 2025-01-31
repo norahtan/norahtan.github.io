@@ -37,7 +37,7 @@ Publications
 *28th Annual Conference on Quantum Information Processing (QIP 2025)* **short plenary talk**<br>
 [[arXiv](https://arxiv.org/abs/2406.07478)]
 [[Yunchao's 𝕏 post](https://x.com/lyc1178/status/1800956054718861486)]
-[[slides](/files/20240920%20Incompressibility%20slides.pdf)]
+[[slides](/files/20250130_Incompressibility.pdf)]
 
 - **Efficient approximate unitary designs from random Pauli rotations**<br>
 \*Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
