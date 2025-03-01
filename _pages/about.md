@@ -47,7 +47,7 @@ Publications
 [[arXiv](https://arxiv.org/abs/2402.05239)]
 [[FOCS](https://www.computer.org/csdl/proceedings-article/focs/2024/167400a463/22gEZkucomc)]
 [[MIT QI Seminar](/files/20240503%20MIT%20QI%20seminar.pdf)]
-[[slides]](/files/20250225QIP_Pauli_rotations.pdf)
+[[slides](/files/20250225QIP_Pauli_rotations.pdf)]
 
 - **Scalable Surface-Code Decoders with Parallelization in Time**<br>
 Xinyu Tan, Fang Zhang, Rui Chao, Yaoyun Shi, Jianxin Chen<br>
