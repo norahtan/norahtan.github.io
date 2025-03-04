@@ -21,7 +21,7 @@ Related Experiences
 - In the spring of 2024, I was a visiting graduate student for the [Quantum Algorithms, Complexity, and Fault-Tolerance Program](https://simons.berkeley.edu/people/xinyu-tan) at the Simons Institute at UC Berkeley.
 - I was a Graduate Teaching Assistant for [Nicolas Delfosse's Quantum LDPC codes minicourse](https://www.nicolas-delfosse.com/pcmi2023) at [IAS PCMI summer school 2023](https://www.ias.edu/pcmi).
 - In the summer of 2022, I was a research intern at Alibaba Quantum Group in Seattle, WA. 
-- I am a proud co-founder of Duke Undergraduate Quantum Information Society (DuQIS) together with [Catherine Liang](https://www.catherine-liang.com/duqis). 
+- I am a proud co-founder of Duke Undergraduate Quantum Information Society (DuQIS) together with [Catherine Liang](https://qiyaoliang.com). 
 - As some wise person once said, "Love quantum mechanics, love the cats." Click <a href="https://photos.app.goo.gl/HK3oJNRbdTSeYy2E8" target="_blank">here</a> for some featured photos of my cat Coco. 
 
 
