@@ -29,6 +29,11 @@ Publications
 ------
 \*: authors are in alphabetical order
 
+- **Beating full state tomography for unentangled spectrum estimation**<br>
+\*Angelos Pelecanos, Xinyu Tan, Ewin Tang, John Wright<br>
+[[arXiv](http://arxiv.org/abs/2504.02785)]
+[[slides](/files/20250402_MIT%20Quantum%20CS%20seminar.pdf)]
+
 - **Permutation gates in the third level of the Clifford hierarchy**<br>
 \*Zhiyang He, Luke Robitaille, Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2410.11818)]
