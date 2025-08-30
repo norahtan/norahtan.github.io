@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xinyu Tan (谭欣雨) and I also go by Norah. I am a third-year Ph.D. student at MIT Math, advised by [Peter Shor](https://math.mit.edu/~shor/) and [Aram Harrow](https://www.mit.edu/~aram/). In 2022, I graduated from Duke University with highest distinctions in both Mathematics and Computer Science, and I was fortunated to be advised by [Robert Calderbank](https://ece.duke.edu/faculty/robert-calderbank) and [Jianfeng Lu](https://services.math.duke.edu/~jianfeng/index.html). 
+My name is Xinyu Tan (谭欣雨) and I also go by Norah. I am a fourth-year Ph.D. student at MIT Math, advised by [Peter Shor](https://math.mit.edu/~shor/) and [Aram Harrow](https://www.mit.edu/~aram/). In 2022, I graduated from Duke University with highest distinctions in both Mathematics and Computer Science, and I was fortunated to be advised by [Robert Calderbank](https://ece.duke.edu/faculty/robert-calderbank) and [Jianfeng Lu](https://services.math.duke.edu/~jianfeng/index.html). 
 
 I am broadly interested in quantum information, quantum error-correction and fault-tolerance (click [here](/images/CalderbankShor.jpeg) for a photo of "Calderbank-Shor-Norah"). 
 
@@ -17,7 +17,7 @@ Email: norahtan (at) mit (dot) edu
 
 Related Experiences
 ------
-- I am a Student Researcher at Google Quantum AI in the summer of 2025 at Venice beach, CA hosted by Bill Huggins. 
+- I was a Student Researcher at Google Quantum AI in the summer of 2025 at Venice beach, CA hosted by Bill Huggins. 
 - In the spring of 2024, I was a visiting graduate student for the [Quantum Algorithms, Complexity, and Fault-Tolerance Program](https://simons.berkeley.edu/people/xinyu-tan) at the Simons Institute at UC Berkeley.
 - I was a Graduate Teaching Assistant for [Nicolas Delfosse's Quantum LDPC codes minicourse](https://www.nicolas-delfosse.com/pcmi2023) at [IAS PCMI summer school 2023](https://www.ias.edu/pcmi).
 - In the summer of 2022, I was a research intern at Alibaba Quantum Group in Seattle, WA. 
