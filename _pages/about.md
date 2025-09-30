@@ -50,6 +50,7 @@ Publications
 \*Jeongwan Haah, Yunchao Liu, Xinyu Tan<br>
 *65th IEEE Symposium on Foundations of Computer Science (FOCS 2024)*<br>
 *28th Annual Conference on Quantum Information Processing (QIP 2025)* regular talk<br>
+*Communications in Mathematical Physics (2025)*<br>
 [[arXiv](https://arxiv.org/abs/2402.05239)]
 [[FOCS](https://www.computer.org/csdl/proceedings-article/focs/2024/167400a463/22gEZkucomc)]
 [[MIT QI Seminar](/files/20240503%20MIT%20QI%20seminar.pdf)]
