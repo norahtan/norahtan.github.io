@@ -29,7 +29,7 @@ Publications
 ------
 \*: authors are in alphabetical order
 
-- **Unitary synthesis with fewer T gates**
+- **Unitary synthesis with fewer T gates**<br>
 Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2509.25702)]
 
