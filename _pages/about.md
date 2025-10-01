@@ -29,6 +29,10 @@ Publications
 ------
 \*: authors are in alphabetical order
 
+- **Unitary synthesis with fewer T gates**
+Xinyu Tan<br>
+[[arXiv](https://arxiv.org/abs/2509.25702)]
+
 - **Beating full state tomography for unentangled spectrum estimation**<br>
 \*Angelos Pelecanos, Xinyu Tan, Ewin Tang, John Wright<br>
 [[arXiv](http://arxiv.org/abs/2504.02785)]
