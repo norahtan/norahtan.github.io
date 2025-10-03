@@ -35,6 +35,7 @@ Xinyu Tan<br>
 
 - **Beating full state tomography for unentangled spectrum estimation**<br>
 \*Angelos Pelecanos, Xinyu Tan, Ewin Tang, John Wright<br>
+*37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)*<br>
 [[arXiv](http://arxiv.org/abs/2504.02785)]
 [[slides](/files/20250402_MIT%20Quantum%20CS%20seminar.pdf)]
 
