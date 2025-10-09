@@ -29,6 +29,10 @@ Publications
 ------
 \*: authors are in alphabetical order
 
+- **Haar random codes attain the quantum Hamming bound, approximately**<br>
+\*Fermi Ma, Xinyu Tan, John Wright<br>
+[[arXiv](https://arxiv.org/abs/2510.07158)]
+
 - **Unitary synthesis with fewer T gates**<br>
 Xinyu Tan<br>
 [[arXiv](https://arxiv.org/abs/2509.25702)]
