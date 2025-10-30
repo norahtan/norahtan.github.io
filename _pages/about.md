@@ -62,6 +62,7 @@ Xinyu Tan<br>
 *Communications in Mathematical Physics (2025)*<br>
 [[arXiv](https://arxiv.org/abs/2402.05239)]
 [[FOCS](https://www.computer.org/csdl/proceedings-article/focs/2024/167400a463/22gEZkucomc)]
+[[CMP](https://link.springer.com/article/10.1007/s00220-025-05480-6)]
 [[MIT QI Seminar](/files/20240503%20MIT%20QI%20seminar.pdf)]
 [[slides](/files/20250225QIP_Pauli_rotations.pdf)]
 
