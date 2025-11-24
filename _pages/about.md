@@ -33,6 +33,7 @@ Publications
 \*Fermi Ma, Xinyu Tan, John Wright<br>
 *29th Annual Conference on Quantum Information Processing (QIP 2026)*<br>
 [[arXiv](https://arxiv.org/abs/2510.07158)]
+[[slides](/files/20251121_Haar%20random%20codes.pdf)]
 
 - **Unitary synthesis with fewer T gates**<br>
 Xinyu Tan<br>
