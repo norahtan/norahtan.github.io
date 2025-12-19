@@ -17,6 +17,7 @@ Email: norahtan (at) mit (dot) edu
 
 Related Experiences
 ------
+- In the summer of 2026, I will be a Student Researcher at Google Quantum AI hosted by Robin Kothari. 
 - I was a Student Researcher at Google Quantum AI in the summer of 2025 at Venice beach, CA hosted by Bill Huggins. 
 - In the spring of 2024, I was a visiting graduate student for the [Quantum Algorithms, Complexity, and Fault-Tolerance Program](https://simons.berkeley.edu/people/xinyu-tan) at the Simons Institute at UC Berkeley.
 - I was a Graduate Teaching Assistant for [Nicolas Delfosse's Quantum LDPC codes minicourse](https://www.nicolas-delfosse.com/pcmi2023) at [IAS PCMI summer school 2023](https://www.ias.edu/pcmi).
