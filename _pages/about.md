@@ -38,10 +38,12 @@ Publications
 
 - **Unitary synthesis with fewer T gates**<br>
 Xinyu Tan<br>
+*21st Annual Theory of Quantum Computation, Communication and Cryptography (TQC 2026)*<br>
 [[arXiv](https://arxiv.org/abs/2509.25702)]
 
 - **Characterization of permutation gates in the third level of the Clifford hierarchy**<br>
 \*Zhiyang He, Luke Robitaille, Xinyu Tan<br>
+*21st Annual Theory of Quantum Computation, Communication and Cryptography (TQC 2026)*<br>
 [[arXiv](https://arxiv.org/abs/2510.04993)]
 
 - **Beating full state tomography for unentangled spectrum estimation**<br>
