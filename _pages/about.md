@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Xinyu Tan (谭欣雨) and I also go by Norah. I am a fourth-year Ph.D. student at MIT Math, advised by [Peter Shor](https://math.mit.edu/~shor/) and [Aram Harrow](https://www.mit.edu/~aram/). In 2022, I graduated from Duke University with highest distinctions in both Mathematics and Computer Science, and I was fortunated to be advised by [Robert Calderbank](https://ece.duke.edu/faculty/robert-calderbank) and [Jianfeng Lu](https://services.math.duke.edu/~jianfeng/index.html). 
 
-I am broadly interested in quantum information, quantum error-correction and fault-tolerance (click [here](/images/CalderbankShor.jpeg) for a photo of "Calderbank-Shor-Norah"). 
+I am broadly interested in the theory of quantum information and quantum error correction (click [here](/images/CalderbankShor.jpeg) for a photo of "Calderbank-Shor-Norah"). 
 
 <!-- My papers can be found in the [Publications](/publications) tab. I can be reached at norahtan (at) mit (dot) edu.  -->
 Email: norahtan (at) mit (dot) edu
