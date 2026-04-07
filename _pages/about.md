@@ -50,6 +50,7 @@ Xinyu Tan<br>
 \*Angelos Pelecanos, Xinyu Tan, Ewin Tang, John Wright<br>
 *37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026)*<br>
 [[arXiv](http://arxiv.org/abs/2504.02785)]
+[[SODA](https://doi.org/10.1137/1.9781611978971.120)]
 [[slides](/files/20250402_MIT%20Quantum%20CS%20seminar.pdf)]
 
 - **Incompressibility and spectral gaps of random circuits**<br>
@@ -57,6 +58,7 @@ Xinyu Tan<br>
 *28th Annual Conference on Quantum Information Processing (QIP 2025)* **short plenary talk**<br>
 *66th IEEE Symposium on Foundations of Computer Science (FOCS 2025)*<br>
 [[arXiv](https://arxiv.org/abs/2406.07478)]
+[[FOCS](https://doi.org/10.1109/FOCS63196.2025.00069)]
 <!-- [[Yunchao's 𝕏 post](https://x.com/lyc1178/status/1800956054718861486)] -->
 [[slides](/files/20250130_Incompressibility.pdf)]
 
@@ -66,7 +68,7 @@ Xinyu Tan<br>
 *28th Annual Conference on Quantum Information Processing (QIP 2025)*<br>
 *Communications in Mathematical Physics (2025)*<br>
 [[arXiv](https://arxiv.org/abs/2402.05239)]
-[[FOCS](https://www.computer.org/csdl/proceedings-article/focs/2024/167400a463/22gEZkucomc)]
+[[FOCS](https://doi.ieeecomputersociety.org/10.1109/FOCS61266.2024.00036)]
 [[CMP](https://link.springer.com/article/10.1007/s00220-025-05480-6)]
 [[MIT QI Seminar](/files/20240503%20MIT%20QI%20seminar.pdf)]
 [[slides](/files/20250225QIP_Pauli_rotations.pdf)]
