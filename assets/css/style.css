@@ -1,0 +1,223 @@
+/* ----------------------------------------------------------------------
+   norahtan.github.io  ·  minimal single-page layout
+   Font: Lora (Google Fonts)
+   ---------------------------------------------------------------------- */
+
+:root {
+  --ink:    #1c1c1c;
+  --muted:  #6a6a6a;
+  --rule:   #e6e3dc;
+  --accent: #5a3e2b;        /* warm brown — pairs with Lora */
+  --bg:     #fbfaf7;        /* soft warm white */
+  --max:    680px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  font-family: "Lora", Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.zh {
+  font-family: "Noto Serif SC", "Songti SC", "STSong", serif;
+  font-weight: 500;
+}
+
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 80px 28px 120px;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(90, 62, 43, 0.25);
+  transition: border-color 120ms ease, color 120ms ease;
+}
+a:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Header / intro ---------- */
+
+.intro {
+  margin-bottom: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+}
+.intro-text {
+  flex: 1;
+  min-width: 0;
+}
+.intro .avatar {
+  display: block;
+  width: 150px;
+  height: 150px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--rule);
+}
+.intro h1 {
+  font-size: 34px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  margin: 0 0 6px;
+}
+.intro .role {
+  color: var(--muted);
+  font-style: italic;
+  margin: 0;
+  font-size: 18px;
+}
+
+/* ---------- Bio ---------- */
+
+.bio p {
+  margin: 0 0 14px;
+}
+.bio .contact {
+  margin-top: 22px;
+  font-size: 16px;
+  color: var(--muted);
+}
+.bio .contact .email {
+  color: var(--ink);
+}
+.bio .contact a {
+  color: var(--accent);
+}
+
+/* ---------- Section headings ---------- */
+
+section {
+  margin-top: 64px;
+}
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  color: var(--ink);
+  margin: 0 0 22px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* ---------- News list ---------- */
+
+.experience ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.experience li {
+  display: flex;
+  gap: 18px;
+  padding: 8px 0;
+  font-size: 17px;
+  line-height: 1.55;
+}
+.experience li time {
+  flex-shrink: 0;
+  width: 115px;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* ---------- Publications ---------- */
+
+.publications .note {
+  font-size: 16px;
+  color: var(--muted);
+  font-style: italic;
+  margin: -10px 0 22px;
+}
+.pub {
+  margin-bottom: 32px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+.pub .title {
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+.pub .authors {
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+.pub .authors .ordering {
+  color: var(--muted);
+  font-style: italic;
+  font-size: 15px;
+  margin-left: 4px;
+}
+.pub .venue {
+  font-style: italic;
+  color: #4a4a4a;
+}
+.pub .venue + .venue {
+  margin-top: 2px;
+}
+.pub .venue strong {
+  font-style: normal;
+  color: var(--ink);
+}
+.pub .links {
+  margin-top: 4px;
+}
+.pub .links a {
+  margin-right: 14px;
+  font-size: 16px;
+}
+.pub .links a:last-child {
+  margin-right: 0;
+}
+
+/* ---------- Footer ---------- */
+
+.page-footer {
+  margin-top: 80px;
+  padding-top: 22px;
+  border-top: 1px solid var(--rule);
+  font-size: 14px;
+  color: var(--muted);
+  text-align: center;
+}
+.page-footer a {
+  color: var(--muted);
+}
+
+/* ---------- Responsive tweaks ---------- */
+
+@media (max-width: 560px) {
+  body { font-size: 17px; }
+  main { padding: 56px 22px 90px; }
+  .intro {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    gap: 22px;
+  }
+  .intro .avatar { width: 120px; height: 120px; }
+  .intro h1 { font-size: 28px; }
+  .experience li { gap: 14px; }
+  .experience li time { width: 100px; }
+}
