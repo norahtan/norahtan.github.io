@@ -218,6 +218,17 @@ h2 {
   }
   .intro .avatar { width: 120px; height: 120px; }
   .intro h1 { font-size: 28px; }
-  .experience li { gap: 14px; }
-  .experience li time { width: 100px; }
+  .experience li {
+    display: block;
+    padding: 10px 0;
+  }
+  .experience li time {
+    display: block;
+    width: auto;
+    text-align: left;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 2px;
+  }
 }
