@@ -26,6 +26,35 @@
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Noto+Serif+SC:wght@400;500&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="assets/css/style.css">
+
+  <script>
+    // Daily color rotation, keyed to America/New_York day of week.
+    (function () {
+      var themes = [
+        { name: 'slate',    bg: '#f4f6f8', ink: '#1a1f24', accent: '#3a4d5e', rule: '#dbe1e7', muted: '#5f6b78' }, // Sun
+        { name: 'cream',    bg: '#fbfaf7', ink: '#1c1c1c', accent: '#5a3e2b', rule: '#e6e3dc', muted: '#6a6a6a' }, // Mon
+        { name: 'blue',     bg: '#f4f8fc', ink: '#1a2332', accent: '#2c5d8f', rule: '#d8e3ee', muted: '#5e7186' }, // Tue
+        { name: 'sage',     bg: '#f5f8f3', ink: '#1d2a1f', accent: '#3d6e4a', rule: '#d9e4d4', muted: '#6a7f6c' }, // Wed
+        { name: 'rose',     bg: '#faf4f4', ink: '#2a1d20', accent: '#8a4a55', rule: '#ecd9dc', muted: '#826b6f' }, // Thu
+        { name: 'lavender', bg: '#f7f5fb', ink: '#1f1d2a', accent: '#5d4a8a', rule: '#ddd6ec', muted: '#6f6b82' }, // Fri
+        { name: 'amber',    bg: '#faf7ee', ink: '#281f10', accent: '#8a6a2c', rule: '#ece2c8', muted: '#7d705a' }  // Sat
+      ];
+      var weekdayMap = { Sun: 0, Mon: 1, Tue: 2, Wed: 3, Thu: 4, Fri: 5, Sat: 6 };
+      var override = new URLSearchParams(window.location.search).get('theme');
+      var picked = themes.find(function (x) { return x.name === override; });
+      if (!picked) {
+        var fmt = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', weekday: 'short' });
+        picked = themes[weekdayMap[fmt.format(new Date())]];
+      }
+      var t = picked;
+      var r = document.documentElement;
+      r.style.setProperty('--bg', t.bg);
+      r.style.setProperty('--ink', t.ink);
+      r.style.setProperty('--accent', t.accent);
+      r.style.setProperty('--rule', t.rule);
+      r.style.setProperty('--muted', t.muted);
+    })();
+  </script>
 </head>
 
 <body>

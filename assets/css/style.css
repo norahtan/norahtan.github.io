@@ -4,11 +4,11 @@
    ---------------------------------------------------------------------- */
 
 :root {
-  --ink:    #1c1c1c;
-  --muted:  #6a6a6a;
-  --rule:   #e6e3dc;
-  --accent: #5a3e2b;        /* warm brown — pairs with Lora */
-  --bg:     #fbfaf7;        /* soft warm white */
+  --ink:    #1a2332;        /* deep navy ink */
+  --muted:  #5e7186;        /* cool slate gray */
+  --rule:   #d8e3ee;        /* pale blue rule */
+  --accent: #2c5d8f;        /* steady mid-blue link */
+  --bg:     #f4f8fc;        /* very soft light blue */
   --max:    680px;
 }
 
