@@ -53,6 +53,10 @@
       r.style.setProperty('--accent', t.accent);
       r.style.setProperty('--rule', t.rule);
       r.style.setProperty('--muted', t.muted);
+      document.addEventListener('DOMContentLoaded', function () {
+        var el = document.getElementById('theme-name');
+        if (el) el.textContent = t.name;
+      });
     })();
   </script>
 </head>
@@ -223,6 +227,7 @@
       &nbsp;·&nbsp;
       <a href="https://photos.app.goo.gl/HK3oJNRbdTSeYy2E8" target="_blank" rel="noopener">photos of my cat Coco</a>
     </p>
+    <p class="theme-signal">today's color: <span id="theme-name"></span></p>
   </footer>
 
 </main>

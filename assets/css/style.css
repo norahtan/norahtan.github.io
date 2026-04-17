@@ -205,6 +205,20 @@ h2 {
 .page-footer a {
   color: var(--muted);
 }
+.page-footer .theme-signal {
+  margin-top: 10px;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: 0.02em;
+  opacity: 0.75;
+}
+.page-footer .theme-signal #theme-name {
+  color: var(--accent);
+  font-style: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  margin-left: 2px;
+}
 
 /* ---------- Responsive tweaks ---------- */
 
