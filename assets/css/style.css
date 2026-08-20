@@ -103,6 +103,9 @@ a:hover {
 .bio .contact a {
   color: var(--accent);
 }
+.bio .contact .cv-updated {
+  font-size: 13px;
+}
 
 /* ---------- Section headings ---------- */
 
